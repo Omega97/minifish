@@ -16,6 +16,8 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+# Purpose: Build system: arch flags, size-oriented optimization mix, PGO, and strip.
+
 
 ### ==========================================================================
 ### Section 1. General Configuration

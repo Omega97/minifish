@@ -1,3 +1,7 @@
+/*
+  Purpose: Applies delayed runtime settings (hash size, thread count, etc.).
+*/
+
 #include "search.h"
 #include "settings.h"
 #include "thread.h"

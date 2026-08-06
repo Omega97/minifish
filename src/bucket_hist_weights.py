@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+"""
+Purpose: Plots per-piece/per-square bucket histograms of FT weights.
+"""
+
 import sys
 
 import numpy as np

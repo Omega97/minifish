@@ -1,3 +1,7 @@
+/*
+  Purpose: BMI2/PEXT plain attack tables and initialization for sliders.
+*/
+
 Bitboard RookMasks[64];
 Bitboard *RookAttacks[64];
 

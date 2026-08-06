@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+"""
+Purpose: Reorders and quantizes NNUE weights into the layout expected by the engine.
+"""
+
 import hashlib
 import os
 from pprint import pprint

@@ -16,6 +16,8 @@
 
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+  Purpose: Declarations for shared utilities and common helpers.
 */
 
 #ifndef MISC_H

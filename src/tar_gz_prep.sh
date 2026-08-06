@@ -1,4 +1,5 @@
 # #!/bin/bash
+# Purpose: Builds the minimal engine and packs e.7z + main.py into submission.tar for Kaggle.
 set -eu -o pipefail
 
 make clean

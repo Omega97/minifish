@@ -1,4 +1,5 @@
 # #!/bin/bash
+# Purpose: Size-focused profile-build (minimal=yes, no bench) and compression size report.
 set -eu -o pipefail
 
 make clean

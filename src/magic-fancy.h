@@ -1,3 +1,7 @@
+/*
+  Purpose: Inline fancy magic-bitboard attack lookup for bishops and rooks.
+*/
+
 extern Bitboard RookMasks[64];
 extern Bitboard RookMagics[64];
 extern uint8_t  RookShifts[64];

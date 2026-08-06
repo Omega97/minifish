@@ -1,3 +1,7 @@
+/*
+  Purpose: BMI2 fancy (compressed) attack tables and initialization for sliders.
+*/
+
 Bitboard RookMasks[64], RookMasks2[64];
 uint16_t *RookAttacks[64];
 

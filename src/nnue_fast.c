@@ -1,3 +1,7 @@
+/*
+  Purpose: Incremental NNUE accumulator updates and SIMD forward pass.
+*/
+
 #include "bitboard.h"
 #include "incbin.h"
 #include "position.h"

@@ -1,3 +1,7 @@
+/*
+  Purpose: NNUE network layout, dimensions, quant scales, and accumulator API.
+*/
+
 #pragma once
 
 #include "simd.h"

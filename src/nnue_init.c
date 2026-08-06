@@ -1,3 +1,7 @@
+/*
+  Purpose: Loads and embeds NNUE weights at startup (via incbin).
+*/
+
 #include "nnue.h"
 #include "bitboard.h"
 #include "incbin.h"

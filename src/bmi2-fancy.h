@@ -1,3 +1,7 @@
+/*
+  Purpose: Inline BMI2 fancy attack lookup (PEXT index + PDEP expand).
+*/
+
 #include <immintrin.h>
 
 extern Bitboard RookMasks[64], RookMasks2[64];

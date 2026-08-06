@@ -1,3 +1,7 @@
+/*
+  Purpose: Inline AVX2 slider attack generation for queens/bishops/rooks.
+*/
+
 #include <immintrin.h>
 
 extern __m256i queen_mask_v4[64][2];

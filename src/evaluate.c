@@ -16,6 +16,8 @@
 
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+  Purpose: Position evaluation entry point; delegates scoring to the NNUE network.
 */
 
 #include <assert.h>

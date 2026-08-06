@@ -1,3 +1,7 @@
+/*
+  Purpose: Board representation: FEN/setup, make/unmake move, Zobrist hashing.
+*/
+
 #include <assert.h>
 #include <ctype.h>
 #include <inttypes.h>

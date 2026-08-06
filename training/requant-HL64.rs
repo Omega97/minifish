@@ -1,3 +1,5 @@
+//! Purpose: Loads a bullet checkpoint and exports a requantized .nnue with target QA/QB scales.
+
 use bullet_lib::{
     inputs, optimiser, outputs, Activation, Loss, TrainerBuilder,
 };

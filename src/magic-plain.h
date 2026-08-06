@@ -1,3 +1,7 @@
+/*
+  Purpose: Inline plain magic-bitboard attack lookup for bishops and rooks.
+*/
+
 extern Bitboard RookMasks[64];
 extern Bitboard RookMagics[64];
 extern Bitboard BishopMasks[64];

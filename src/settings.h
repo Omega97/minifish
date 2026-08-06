@@ -1,3 +1,7 @@
+/*
+  Purpose: Runtime engine settings structures and process_delayed_settings().
+*/
+
 #ifndef SETTINGS_H
 #define SETTINGS_H
 

@@ -16,6 +16,8 @@
 
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+  Purpose: Program entry point: initializes bitboards, threads, TT, and NNUE, then enters the UCI loop.
 */
 
 #include <stdio.h>

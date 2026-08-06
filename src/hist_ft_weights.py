@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+"""
+Purpose: Plots histograms of feature-transformer weight magnitudes.
+"""
+
 from pprint import pprint
 import struct
 import sys

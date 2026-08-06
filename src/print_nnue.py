@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+"""
+Purpose: Inspects NNUE weight ranges and bit-width compatibility statistics.
+"""
+
 from pprint import pprint
 import struct
 import sys

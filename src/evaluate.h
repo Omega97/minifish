@@ -1,3 +1,7 @@
+/*
+  Purpose: Public evaluate() declaration for position scoring.
+*/
+
 #ifndef EVALUATE_H
 #define EVALUATE_H
 

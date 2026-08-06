@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+"""
+Purpose: Further compresses NNUE weights (e.g. 8-bit, zero unused) for binary size.
+"""
+
 import hashlib
 import os
 from pprint import pprint

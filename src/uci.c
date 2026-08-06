@@ -14,6 +14,8 @@
 
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+  Purpose: UCI protocol implementation (position, go, setoption, quit, etc.).
 */
 
 #include <stdio.h>

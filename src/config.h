@@ -1,3 +1,7 @@
+/*
+  Purpose: Compile-time selection of magic/BMI2/AVX2 slider-attack backends.
+*/
+
 #ifndef CONFIG_H
 #define CONFIG_H
 

@@ -1,3 +1,7 @@
+"""
+Purpose: Kaggle submission wrapper: unpacks the compressed engine binary and bridges the competition API to UCI.
+"""
+
 from subprocess import run, Popen, PIPE
 from time import time
 

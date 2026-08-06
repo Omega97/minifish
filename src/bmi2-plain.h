@@ -1,3 +1,7 @@
+/*
+  Purpose: Inline BMI2/PEXT plain attack lookup for bishops and rooks.
+*/
+
 #include <immintrin.h>
 
 extern Bitboard RookMasks[64];

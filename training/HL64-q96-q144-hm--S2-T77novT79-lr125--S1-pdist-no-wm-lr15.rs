@@ -1,3 +1,5 @@
+//! Purpose: bullet training schedule for the HL64 network (datasets, LR, SCReLU, quant scales QA/QB).
+
 use bullet_lib::{
     inputs, loader, lr, optimiser, outputs, wdl, Activation, LocalSettings, Loss,
     TrainerBuilder, TrainingSchedule, TrainingSteps

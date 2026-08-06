@@ -1,3 +1,7 @@
+/*
+  Purpose: Magic-bitboard tables and init for plain (fixed-shift) slider attacks.
+*/
+
 Bitboard  RookMasks  [64];
 Bitboard  RookMagics [64];
 Bitboard *RookAttacks[64];

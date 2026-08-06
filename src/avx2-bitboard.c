@@ -1,3 +1,7 @@
+/*
+  Purpose: AVX2-based slider attack tables and initialization.
+*/
+
 __m256i queen_mask_v4[64][2];
 __m256i bishop_mask_v4[64];
 __m128i rook_mask_NS[64];

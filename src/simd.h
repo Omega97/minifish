@@ -1,3 +1,7 @@
+/*
+  Purpose: SIMD abstractions (AVX2/SSE) used by the NNUE evaluator.
+*/
+
 #pragma once
 
 #include <immintrin.h>

@@ -1,4 +1,5 @@
 #!/bin/bash
+# Purpose: Convenience script for a full local architecture build.
 set -eu -o pipefail
 
 make clean

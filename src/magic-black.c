@@ -1,3 +1,7 @@
+/*
+  Purpose: Black-magic bitboard tables and init for slider attacks.
+*/
+
 Bitboard  RookMasks  [64];
 Bitboard  RookMagics [64];
 Bitboard *RookAttacks[64];

@@ -1,3 +1,7 @@
+/*
+  Purpose: Magic-bitboard tables and init for fancy (variable-shift) slider attacks.
+*/
+
 #include "misc.h"
 
 Bitboard  RookMasks  [64];

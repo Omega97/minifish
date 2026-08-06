@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+"""
+Purpose: Visualizes NNUE feature-transformer weights as heatmaps.
+"""
+
 import sys
 
 import numpy as np
